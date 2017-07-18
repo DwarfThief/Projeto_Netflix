@@ -187,5 +187,4 @@ main(){
 			}while(IncMenu()<5);
 		}
 	}while(X==1);
-	
 }
